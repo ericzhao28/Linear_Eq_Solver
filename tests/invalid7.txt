@@ -1,0 +1,4 @@
+// Invalid format
+
+a = b c
+b = 3

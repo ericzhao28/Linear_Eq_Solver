@@ -1,0 +1,7 @@
+// Should compute and evaluate to
+// a = 10
+// b = 5
+
+a = 3 + 2 + b
+b = 5
+a = 10

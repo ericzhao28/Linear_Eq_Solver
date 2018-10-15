@@ -1,0 +1,5 @@
+// Contradictory.
+
+a = 3 + 2 + b
+b = 5
+a = 9

@@ -1,0 +1,4 @@
+// Invalid format
+
+a = a = a
+a = 5

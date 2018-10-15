@@ -1,0 +1,7 @@
+// No basis.
+
+c = a + b + 3
+b = c + df + 1
+de = a + b + 2
+de = c + a + 1
+

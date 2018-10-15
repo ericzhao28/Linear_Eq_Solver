@@ -1,0 +1,4 @@
+// Linearly dependent.
+
+c = a + a
+c = b + 3

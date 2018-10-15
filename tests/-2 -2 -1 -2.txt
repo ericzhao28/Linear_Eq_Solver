@@ -1,0 +1,10 @@
+// Should compute and evaluate to
+// a = -2
+// b = -2
+// c = -1
+// de = -2
+
+c = a + b + 3
+b = c + de + 1
+de = a + b + 2
+de = c + a + 1
